@@ -6,9 +6,9 @@
 
 > Exemplos:
 λ curl http://localhost:3000/1 </br>
-{ "extenso": "um" }</br>
+{ "extenso": "um" }</br></br>
 λ curl http://localhost:3000/-1042</br>
-{ "extenso": "menos mil e quarenta e dois" }</br>
+{ "extenso": "menos mil e quarenta e dois" }</br></br>
 λ curl http://localhost:3000/94587</br>
 { "extenso": "noventa e quatro mil e quinhentos e oitenta e sete" }</p>
 
