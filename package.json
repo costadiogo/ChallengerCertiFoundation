@@ -5,13 +5,18 @@
   "author": "Diogo Costa",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "test": "mocha index.test.js"
   },
   "devDependencies": {
     "express": "^4.17.1"
   },
   "dependencies": {
+    "chai": "^4.3.0",
+    "chai-http": "^4.3.0",
     "nodemon": "^2.0.7",
+    "request": "^2.88.2",
+    "should": "^13.2.3",
     "written-number": "^0.9.1"
   }
 }
