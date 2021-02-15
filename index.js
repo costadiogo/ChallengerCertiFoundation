@@ -10,7 +10,7 @@ server.use(router);
 
 router.get('/', (req, res) => {
 
-    res.send('Welcome to challenger of Certi Foundation');
+    res.send({message: 'Welcome to challenger of Certi Foundation'});
     
 });
 
