@@ -15,37 +15,51 @@
 
 <h3>INICIANDO O PROJETO SEM O DOCKER</h3>
 
-<p>Faça o clone do projeto</p>
+<p>Faça o clone do projeto</p></br>
 
-<p>Após fazer o clone do projeto, você pode usar um gerenciador de dependências de sua escolha, aqui utilizaremos o yarn.</p>
+<p>Após fazer o clone do projeto, você pode usar um gerenciador de dependências de sua escolha, aqui utilizaremos o yarn.</p></br>
 
-<p>No seu terminal digite o comando: </br>
+<p>No seu terminal digite o comando: </br></br>
 
-yarn install </br>
+yarn install </br></br>
 
-para instalar as dependências</p>
+para instalar as dependências</p></br>
 
-<p>Depois de todas as dependências instaladas agora vamos inicializar o servidor</p>
+<p>Depois de todas as dependências instaladas agora vamos inicializar o servidor</p></br>
 
-<p>No seu terminal digite o comando: </br>
+<p>No seu terminal digite o comando: </br></br>
 
-yarn start </br>
+yarn start </br></br>
 
-para iniciar o servidor</p>
-
-<h3>INICIANDO O PROJETO COM O DOCKER</h3>
-
-<p>No seu terminal digite o comando: </br>
-
-docker-compose up
-
-</p>
+para iniciar o servidor</p></br></br>
 
 <h3>TESTANDO O PROJETO</h3>
 
 <p>Para testar o projeto você pode utilizar um cliente http como Insomnia ou o Postman </br>
 utilizar um navegador de sua escolha e digitar no campo de busca: </br>
 
-localhost:3000/ e um numero de sua escolha
+No seu browser ou em um cliente http digite: </br> </br>
+
+http://localhost:3000/ e um numero de sua escolha.
+
+</p>
+
+
+<h3>INICIANDO O PROJETO COM O DOCKER</h3>
+
+<p>No seu terminal digite o comando: </br></br>
+
+docker-compose up </br></br>
+
+</p>
+
+<h3>TESTANDO O PROJETO</h3>
+
+<p>Para testar o projeto você pode utilizar um cliente http como Insomnia ou o Postman </br></br>
+utilizar um navegador de sua escolha e digitar no campo de busca: </br></br>
+
+No seu browser ou em um cliente http digite: </br> </br>
+
+http://localhost:3000/ e um numero de sua escolha.
 
 </p>
