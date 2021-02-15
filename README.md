@@ -15,7 +15,9 @@
 
 <h3>INICIANDO O PROJETO SEM O DOCKER</h3>
 
-<p>Aqui você pode usar um gerenciador de dependências de sua escolha</p>
+<p>Faça o clone do projeto</p>
+
+<p>Após fazer o clone do projete, você pode usar um gerenciador de dependências de sua escolha, aqui utilizaremos o yarn.</p>
 
 <p>No seu terminal digite o comando: </br>
 
